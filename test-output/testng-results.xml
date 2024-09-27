@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T11:51:05 IST" name="Entrata Automation Suite" finished-at="2024-09-27T11:52:24 IST" duration-ms="79093">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T11:51:05 IST" name="Entrata Test Cases" finished-at="2024-09-27T11:52:24 IST" duration-ms="79093">
+      <class name="com.entrata.qa.testcases.Navigate">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.qa.testcases.Navigate@2794eab6]" started-at="2024-09-27T11:51:45 IST" name="setUp" finished-at="2024-09-27T11:51:51 IST" duration-ms="6199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="veriftNavigation()[pri:0, instance:com.entrata.qa.testcases.Navigate@2794eab6]" started-at="2024-09-27T11:51:51 IST" name="veriftNavigation" finished-at="2024-09-27T11:51:53 IST" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriftNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.qa.testcases.Navigate@2794eab6]" started-at="2024-09-27T11:51:53 IST" name="tearDown" finished-at="2024-09-27T11:51:54 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.qa.testcases.Navigate -->
+      <class name="com.entrata.qa.testcases.HowItWorks">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.qa.testcases.HowItWorks@13e344d]" started-at="2024-09-27T11:52:13 IST" name="setUp" finished-at="2024-09-27T11:52:20 IST" duration-ms="6595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHowItWorksFunction()[pri:0, instance:com.entrata.qa.testcases.HowItWorks@13e344d]" started-at="2024-09-27T11:52:20 IST" name="verifyHowItWorksFunction" finished-at="2024-09-27T11:52:23 IST" duration-ms="3402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHowItWorksFunction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.qa.testcases.HowItWorks@13e344d]" started-at="2024-09-27T11:52:23 IST" name="tearDown" finished-at="2024-09-27T11:52:24 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.qa.testcases.HowItWorks -->
+      <class name="com.entrata.qa.testcases.Privacy_Policy">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.qa.testcases.Privacy_Policy@45099dd3]" started-at="2024-09-27T11:52:04 IST" name="setUp" finished-at="2024-09-27T11:52:10 IST" duration-ms="6135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePrivacyPolicyLink()[pri:0, instance:com.entrata.qa.testcases.Privacy_Policy@45099dd3]" started-at="2024-09-27T11:52:10 IST" name="validatePrivacyPolicyLink" finished-at="2024-09-27T11:52:13 IST" duration-ms="2657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePrivacyPolicyLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.qa.testcases.Privacy_Policy@45099dd3]" started-at="2024-09-27T11:52:13 IST" name="tearDown" finished-at="2024-09-27T11:52:13 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.qa.testcases.Privacy_Policy -->
+      <class name="com.entrata.qa.testcases.ContentLoading">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.qa.testcases.ContentLoading@2dc54ad4]" started-at="2024-09-27T11:51:05 IST" name="setUp" finished-at="2024-09-27T11:51:13 IST" duration-ms="7978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDynamicContentLoadingOnSummitPage()[pri:0, instance:com.entrata.qa.testcases.ContentLoading@2dc54ad4]" started-at="2024-09-27T11:51:13 IST" name="testDynamicContentLoadingOnSummitPage" finished-at="2024-09-27T11:51:44 IST" duration-ms="31478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicContentLoadingOnSummitPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.qa.testcases.ContentLoading@2dc54ad4]" started-at="2024-09-27T11:51:44 IST" name="tearDown" finished-at="2024-09-27T11:51:45 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.qa.testcases.ContentLoading -->
+      <class name="com.entrata.qa.testcases.ContactForm">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.qa.testcases.ContactForm@6340e5f0]" started-at="2024-09-27T11:51:54 IST" name="setUp" finished-at="2024-09-27T11:52:00 IST" duration-ms="6645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifytestContactFormInteractionWithoutSubmis()[pri:0, instance:com.entrata.qa.testcases.ContactForm@6340e5f0]" started-at="2024-09-27T11:52:00 IST" name="verifytestContactFormInteractionWithoutSubmis" finished-at="2024-09-27T11:52:04 IST" duration-ms="3587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytestContactFormInteractionWithoutSubmis -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.qa.testcases.ContactForm@6340e5f0]" started-at="2024-09-27T11:52:04 IST" name="tearDown" finished-at="2024-09-27T11:52:04 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.qa.testcases.ContactForm -->
+    </test> <!-- Entrata Test Cases -->
+  </suite> <!-- Entrata Automation Suite -->
+</testng-results>
